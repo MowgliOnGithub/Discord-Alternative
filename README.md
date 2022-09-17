@@ -2,9 +2,9 @@ Voici les alternatives Discord!
 
 1 - Discord Normal
 
-```
+
 -> https://discord.com/
-```
+
 
 2 - Discord Canary
 
